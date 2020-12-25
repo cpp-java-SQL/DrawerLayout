@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrawerLayout</string>
+    <string name="Dev_name">Twilight wolf</string>
+    <string name="home">Home</string>
+    <string name="programming">Programming</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="about_us">About Us</string>
+</resources>
